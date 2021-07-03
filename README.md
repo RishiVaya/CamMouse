@@ -12,3 +12,8 @@ fully operate a device’s mouse without the need of an external equipment.
 4. Extend your little finger (pinkie) for Right Click action.
 5. Raise your first 2 fingers (Index and Middle) and keep them together to scroll up.
 6. Raise your first 3 fingers and keep them together to scroll down.
+
+
+
+https://user-images.githubusercontent.com/59580826/124365856-de30d480-dc18-11eb-94d7-bdf9480cfab5.mp4
+
